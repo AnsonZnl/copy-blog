@@ -128,3 +128,4 @@ npm start
 目标是做成一个模板网站：http://www.zhenshigushi.net
 
 在此鸣谢作者提供的教程：[nswbmw/N-blog](https://github.com/nswbmw)
+服务器部署参考：https://biaochenxuying.cn/articleDetail?article_id=5bfa728bb54f044b4f9da240
