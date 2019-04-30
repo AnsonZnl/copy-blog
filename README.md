@@ -62,6 +62,8 @@
 - [ ] 分页
 - [ ] 标签
 - [ ] 二级评论
+- [ ] Nginx反向代理
+- [ ] MongoDB加上用户和密码
 ## 部分截图
 
 ![注册](https://upload-images.jianshu.io/upload_images/7072486-7787bcb581462345.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -82,6 +84,7 @@
 - 注册是图片必须上传(要放在public/img下)，否则会报错 `Callback must be a function`。
 - 仔细阅读教程，可以减少很多低级错误。
 - 删除功能有bug，待解决。
+
 
 ## 使用 pm2 
 > pm2 是 Node.js 下的生产环境进程管理工具，就是我们常说的进程守护工具。
@@ -125,7 +128,7 @@ npm start
 ```
 
 ---
-目标是做成一个模板网站：http://www.zhenshigushi.net
+目标是做成一个模板网站：http://www.zhenshigushi.net    
 
-在此鸣谢作者提供的教程：[nswbmw/N-blog](https://github.com/nswbmw)
+在此鸣谢作者提供的教程：[nswbmw/N-blog](https://github.com/nswbmw)    
 服务器部署参考：https://biaochenxuying.cn/articleDetail?article_id=5bfa728bb54f044b4f9da240
