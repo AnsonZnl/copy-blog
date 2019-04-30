@@ -64,8 +64,9 @@
 - [ ] 二级评论
 ## 部分截图
 
-![注册](https://upload-images.jianshu.io/upload_images/7072486-5590ce1d0c5f7b6a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![登陆](https://upload-images.jianshu.io/upload_images/7072486-8b6857f99a0644d1.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![注册](https://upload-images.jianshu.io/upload_images/7072486-7787bcb581462345.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 
 ![博客首页](https://upload-images.jianshu.io/upload_images/7072486-f9f4772401d2478e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -80,7 +81,7 @@
 - 出了Bug，仔细看Error log.
 - 注册是图片必须上传(要放在public/img下)，否则会报错 `Callback must be a function`。
 - 仔细阅读教程，可以减少很多低级错误。
-- 删除功能有bug
+- 删除功能有bug，待解决。
 
 ##使用 pm2 
 > pm2 是 Node.js 下的生产环境进程管理工具，就是我们常说的进程守护工具。
@@ -124,5 +125,6 @@ npm start
 ```
 
 ---
+目标是做成一个模板网站：http://www.zhenshigushi.net
 
 在此鸣谢作者提供的教程：[nswbmw/N-blog](https://github.com/nswbmw)
